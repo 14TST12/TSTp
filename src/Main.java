@@ -1,7 +1,7 @@
 public class Main {
     public static void HWSeparateMethod()
     {
-        System.out.println("Haiyshki");
+        System.out.println("Hello");
 
     }
     public static void main(String[] args) {
